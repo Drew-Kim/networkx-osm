@@ -5,6 +5,7 @@ This parser is based on the osm to networkx tool from aflaxman : https://gist.gi
 
 # Compatibility
 python3.6 compatibility
+
 networkx v2 compatibility
 
 - cache to avoid downloading the same osm tiles again and again
