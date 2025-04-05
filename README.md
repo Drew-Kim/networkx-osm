@@ -1,8 +1,6 @@
 # OSM Road Parser
 Convert a Open Street Maps `.map` format file into a networkx directional graph.
 
-This parser is based on the osm to networkx tool from aflaxman : https://gist.github.com/aflaxman/287370/
-
 # Compatibility
 python 3.6  
 networkx v2
