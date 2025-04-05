@@ -4,7 +4,7 @@ Convert a Open Street Maps `.map` format file into a networkx directional graph.
 This parser is based on the osm to networkx tool from aflaxman : https://gist.github.com/aflaxman/287370/
 
 # Compatibility
-python3.6 compatibility__
+python3.6 compatibility  
 networkx v2 compatibility
 
 - cache to avoid downloading the same osm tiles again and again
